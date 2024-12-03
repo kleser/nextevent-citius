@@ -35,6 +35,11 @@
   color: black;
 }
 
+.btn.continue {
+  background-color: white;
+  color: black;
+}
+
 .panel-title {
   color: white;
 }
