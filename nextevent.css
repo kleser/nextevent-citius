@@ -1,3 +1,74 @@
-h1 {
-    color: #AAFF00;
+.main {
+  background-color: black;
 }
+
+.prices .panel-titel {
+  color: white;
+}
+
+.seat-map .seats-head .ticket {
+  color: white;
+}
+
+.price button:not(.block-check) {
+  color: black;
+}
+
+.btn-default {
+  background-color: white;
+}
+
+.price {
+  background-color: black;
+}
+
+.price .ticket {
+  color: white;
+}
+
+.price-ticket {
+  color: white;
+}
+
+.btn-continue {
+  background-color: white;
+  color: black;
+}
+
+.panel-title {
+  color: white;
+}
+
+.discounts-total {
+  color: white;
+}
+
+.discounts-collapse collapse in {
+  background-color: white;
+  border: 1px solid black;
+}
+
+.panel-body {
+  color: white;
+}
+
+.discounts-collapse .input button {
+  background-color: white;
+}
+
+.discounts .panel-body .input .glyphicon {
+  background-color: black;
+}
+
+.event {
+  color: white;
+}
+
+.content h1 {
+  color: white;
+}
+
+.content h2 {
+  color: white;
+}
+
