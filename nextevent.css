@@ -4,15 +4,3 @@ h1 {
 h2 {
     color: #AAFF00;
 }
-
-.event {
-    background-color: #AAFF00;
-}
-
-.main {
-    background-color: green;
-}
-
-.col-xs-6 .panel-title .pull-right .text-right .price {
-    color: #AAFF00;
-}
