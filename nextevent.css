@@ -30,7 +30,7 @@
   color: white;
 }
 
-.btn-continue {
+.continue .into-basket {
   background-color: white;
   color: black;
 }
@@ -49,6 +49,7 @@
 }
 
 .panel-body {
+  background-color: black;
   color: white;
 }
 
@@ -70,5 +71,25 @@
 
 .content h2 {
   color: white;
+}
+
+.panel-heading {
+  background-color: black;
+}
+
+.prices .panel-body .prices .panel-heading {
+  background-color: black;
+}
+
+.ticket-select {
+  background-color: black;
+}
+
+.seat-map .plan {
+  border: 1px solid white;
+}
+
+.event .panel-buttons {
+  background-color: black;
 }
 
