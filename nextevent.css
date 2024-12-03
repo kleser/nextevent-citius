@@ -77,7 +77,19 @@
   background-color: black;
 }
 
-.prices .panel-body .prices .panel-heading {
+.prices {
+  background-color: black;
+}
+
+.panel-body {
+  background-color: black;
+}
+
+.prices {
+  background-color: black;
+}
+
+.panel-heading {
   background-color: black;
 }
 
