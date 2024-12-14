@@ -79,11 +79,19 @@
 }
 
 .panel-heading {
-  background-color: black;
+  background-color: black !important;
+}
+
+.panel-heading .semibold {
+  background-color: black !important;
+}
+
+.prices  .panel-heading {
+  background-color: black !important;
 }
 
 .prices {
-  background-color: black;
+  background-color: black !important;
 }
 
 .panel-body {
