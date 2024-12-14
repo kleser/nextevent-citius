@@ -135,3 +135,15 @@
   background-color: black !important;
 }
 
+.btn-default {
+ background-color: black !important;
+}
+
+.input input, .input button, .input textarea {
+  color: white !important;
+}
+
+.btn.back, .btn.btn-secondary {
+  background-color: white !important;
+  color: black !important;
+}
