@@ -102,6 +102,10 @@
   background-color: black;
 }
 
+.prices .panel-body {
+  background-color: black !important;
+}
+
 .panel-heading {
   background-color: black;
 }
@@ -116,5 +120,18 @@
 
 .event .panel-buttons {
   background-color: black;
+}
+
+.bootstrap-select li a {
+  color: black !important;
+}
+
+.btn.back, .btn.btn-secondary {
+ background-color: white !important;
+  color: black !important:
+}
+
+.discounts .panel-body {
+  background-color: black !important;
 }
 
