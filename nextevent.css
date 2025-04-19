@@ -147,3 +147,11 @@
   background-color: white !important;
   color: black !important;
 }
+
+label {
+  color: white;
+}
+
+.panel .panel-body {
+  background-color: black;
+}
